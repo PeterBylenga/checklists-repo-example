@@ -1,4 +1,4 @@
-# Launch suite
+# Launch suite &# Contacts
 
 ## fxos.func.sanity.launch_contacts
 `bug 2 `
